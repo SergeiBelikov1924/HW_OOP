@@ -1,7 +1,7 @@
 package HWShop;
 
-import java.util.HashMap;
 import java.util.Map;
+import java.util.HashMap;
 
 public class Basket {
     private static int counterId = 0;
